@@ -1,5 +1,7 @@
 🌍 DisasterPulse
 
+<img width="1536" height="1024" alt="ChatGPT Image Sep 20, 2025, 02_32_35 AM" src="https://github.com/user-attachments/assets/63abfaa3-a461-4195-9256-ad3553c3fa61" />
+
 Real-Time Disaster Detection & Analysis Using AI & Social Media
 
 🔥 Overview
