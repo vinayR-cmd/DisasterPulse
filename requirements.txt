@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+transformers
+torch
+scikit-learn
+requests
+tweepy
+google-cloud-translate
+Pillow
+exifread
+geopy
